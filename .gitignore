@@ -1,0 +1,17 @@
+.svn
+web/bundles/
+web/compiled/
+web/media/*
+app/bootstrap.php.cache
+app/cache/*
+app/logs/*
+build/
+vendor/
+nbproject/
+.idea/*
+web/uploads/*
+.vagrant
+app/config/parameters.yml
+*~
+node_modules
+qa/*
